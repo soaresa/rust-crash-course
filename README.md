@@ -11,3 +11,4 @@
 10. Enum Types
 11. Constants
 12. Tuples
+13. Functions
