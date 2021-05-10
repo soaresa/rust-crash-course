@@ -14,5 +14,16 @@ fn main() {
             break;
         }
         println!("The n value is {}", n);
-    }        
+    }   
+    
+    // while loop
+    let mut x = 1;
+    let y = "foo";
+    while x < 30 {
+        // if x is a multiple of 5
+        if x % 5 == 0 {
+            println!("X is: {}, {}", x, y);
+        }        
+        x +=1;
+    }
 }

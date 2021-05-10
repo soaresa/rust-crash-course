@@ -1,4 +1,9 @@
 # Rust Crash Course
-1. Hello world
+1. Print "Hello world"
 2. Create rust project using cargo
-3. Declaring and using variables
+3. Writing comments
+4. Declaring and using variables
+5. Variable data types
+6. Using "if" statements
+7. Infinite loop
+8. Conditional loop
