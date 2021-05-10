@@ -1,4 +1,5 @@
 fn main() {
+    // exploring if statements    
     let n = 15;
     
     if n < 30 {
