@@ -9,3 +9,4 @@
 8. Conditional loop
 9. For loop
 10. Enum Types
+11. Constants
