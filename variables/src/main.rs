@@ -18,6 +18,4 @@ fn main() {
     let is: bool = true;
     let not = false;
 
-
-
 }
