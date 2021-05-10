@@ -18,3 +18,4 @@
 17. Structs
 18. Tuple Structs
 19. Pass by Reference
+20. Arrays
