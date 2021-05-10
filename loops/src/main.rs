@@ -26,4 +26,23 @@ fn main() {
         }        
         x +=1;
     }
+
+    // for loop (11 not inclusive)
+    for i in 1..11 {
+        println!("The numer is {}", i);
+    }
+
+    let numbers = 101..111;
+    for j in numbers {
+        println!("Number: {}", j);
+    }
+
+    let colors = vec!["green", "gray", "blue", "red"];
+    for c in colors.iter() { // must use iter() to refer to colors again below
+        println!("Color {}.", c);
+    }
+
+    for (index, a) in colors.iter().enumerate() {
+        println!("Color at {} is {}.", index, a);
+    }
 }

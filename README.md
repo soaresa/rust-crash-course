@@ -7,3 +7,4 @@
 6. Using "if" statements
 7. Infinite loop
 8. Conditional loop
+9. For loop
