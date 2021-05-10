@@ -8,3 +8,4 @@
 7. Infinite loop
 8. Conditional loop
 9. For loop
+10. Enum Types
