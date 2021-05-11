@@ -22,3 +22,4 @@
 21. Impl Keyword
 22. Strings
 23. Traits
+24. Vectors
