@@ -12,5 +12,10 @@ fn main() {
     vector2.push(42);
     println!("{}", vector2[0]); // print 2
     println!("{}", vector2[2]); // print 42
+
+
+    for number in vector1.iter() {
+        println!("{}", number)
+    }
 }
 
