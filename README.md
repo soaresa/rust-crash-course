@@ -21,3 +21,4 @@
 20. Arrays
 21. Impl Keyword
 22. Strings
+23. Traits
