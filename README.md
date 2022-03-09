@@ -26,3 +26,7 @@
 25. Read File
 26. Command line args
 27. Writing to a File
+28. Defining Traits
+29. Pattern Matching
+30. Reading User Input
+31. Hash Maps
