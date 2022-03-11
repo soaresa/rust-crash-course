@@ -30,3 +30,7 @@
 29. Pattern Matching
 30. Reading User Input
 31. Hash Maps
+32. Random Numbers
+33. String Methods
+34. Multiple Source Files (Modules)
+35. Regular Expressions
